@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<texte>
+	<text name="nintendo_url" type="string"><![CDATA[http://www.nintendo.nl]]></text>
+	
+	<text name="footer_impressum" type="string"><![CDATA[Algemene voorwaarden]]></text>
+	<text name="footer_copyright" type="string"><![CDATA[© 2000-2007 Nintendo en extra toxic. Alle Rechten voorbehouden.]]></text>
+
+	<text name="menu_feedback_title" type="string">FEEDBACK</text>
+	<text name="menu_team_title" type="string">TEAMINFO</text>
+	<text name="menu_downloads_title" type="string">DOWNLOADS</text>
+	<text name="menu_hilfe_title" type="string">HELP</text>
+	
+	<text name="teaminfo_namen_title" type="string">GEEF JE KUIKENS EEN NAAM:</text>
+	<text name="teaminfo_1_names" type="string">Je team,Christiane,Bogac,Steve,Christine,Fabian</text>	
+	<text name="teaminfo_2_names" type="string">Poster Bunny,Kuiken 1,Kuiken 2,Kuiken 3,Kuiken 4,Kuiken 5</text>	
+	<text name="teaminfo_rekorde_title" type="string">JE RECORDS:</text>
+	<text name="teaminfo_rekorde_kills" type="string">Max. # verslagen kuikens in één spel (Pro-stand)</text>
+	<text name="teaminfo_rekorde_thunderbolt" type="string">Beste bliksemaanval</text>
+	<text name="teaminfo_rekorde_weight" type="string">Beste gewichtaanval</text>
+	<text name="teaminfo_rekorde_bomb" type="string">Beste bomaanval</text>
+	<text name="teaminfo_rekorde_mushroom" type="string">Beste paddestoelaanval</text>	
+	<text name="teaminfo_rekorde_balloon" type="string">Beste ballonaanval</text>
+	<text name="teaminfo_rekorde_highscore" type="string">Highscore:</text>	
+	<text name="teaminfo_rekorde_reset" type="string">Records wissen</text>	
+	<text name="teaminfo_rekorde_resetnote" type="string">Weet je zeker dat je je records wilt wissen?</text>
+	
+	<text name="gameinfo_more" type="string">More Info</text>
+	
+	<text name="gameinfo_1_title" type="string">Mario Slam Basketball</text>
+	<text name="gameinfo_1_link" type="string"><![CDATA[http://marioslambasketball.nintendo.nl/nlNL/]]></text>	
+	<text name="gameinfo_1_body" type="string"><![CDATA[Laat Mario maar dribbelen! Spelers gebruiken het Touch Screen om knappe dribbels, speciale passes en schitterende shots te maken, door het gebruik van de stylus. Spelers kiezen hun teams van drie personages uit het rijk van Mario en springen het veld op. Of je nu tegen vrienden wilt spelen via een draadloze LAN verbinding, een heel toernooi afspeelt of alleen de minigames wilt doen, er is een stand voor iedereen.]]></text>
+	<text name="gameinfo_2_title" type="string">Kororinpa</text>
+	<text name="gameinfo_2_link" type="string"><![CDATA[http://wii.nintendo.nl/7515.html]]></text>	
+	<text name="gameinfo_2_body" type="string"><![CDATA[Heb je een vaste hand en stalen zenuwen? Dan kun je Kororinpa aan! Kororinpa is door Hudson Soft speciaal voor de Wii ontwikkeld en is een spel dat bomvol zit met puzzelactie. De bedoeling van het spel is om hoog in de lucht een bal zorgvuldig door een driedimensionale, zwevende doolhof te leiden, waarbij je juwelen dient te verzamelen, zodat je de uitgang aan het einde kunt openen.]]></text>
+	<text name="gameinfo_3_title" type="string">Pokémon Ranger</text>
+	<text name="gameinfo_3_link" type="string"><![CDATA[http://ms.nintendo-europe.com/pokemonranger/nlNL/index.html]]></text>	
+	<text name="gameinfo_3_body" type="string"><![CDATA[Pokémon Ranger is een nieuw type Pokémonspel dat speciaal voor de Nintendo DS is ontworpen. Je speelt hierin geen Pokémon Trainer, maar een Ranger die verantwoordelijk is voor het beschermen van de Pokémon in het wild. Het vangen van Pokémon gebeurt ook op een totaal nieuwe manier: door gebruik te maken van een Capture Styler vang je de Pokémon door er snel met je stylus een cirkel omheen te trekken.]]></text>
+	<text name="gameinfo_4_title" type="string">Wii Channels</text>
+	<text name="gameinfo_4_link" type="string"><![CDATA[http://wii.nintendo.nl/1354.html]]></text>	
+	<text name="gameinfo_4_body" type="string"><![CDATA[Een van de ontwikkelconcepten voor de Wii was het 'vergroten van het aantal tv-kanalen op de tv in de huiskamer'. De Wii is een spelsysteem, dus je kunt nog steeds een speldisk opstarten om een spel te spelen. Maar net zoals we PictoChat in de Nintendo DS hebben verwerkt, zit er ook interne software in de Wii.]]></text>
+	<text name="gameinfo_5_title" type="string">Phoenix Wright 2</text>
+	<text name="gameinfo_5_link" type="string"><![CDATA[http://www.nintendo-europe.com/NOE/nl/NL/games/gamepage.do?ElementId=gVM-_nuBcTS3Lo0Qz4nPc8frvBPFBVjQ]]></text>	
+	<text name="gameinfo_5_body" type="string"><![CDATA[Ace Attorney Phoenix Wright keert terug om de onschuldigen te beschermen en de schuldigen te straffen in dit vervolg op een van de meest verrassende en originele Nintendo DS-toppers van 2006. In Justice for All onderzoek je vier nieuwe zaken die stuk voor stuk bijzonder ingewikkeld zijn en bomvol zitten met kleurrijke figuren.]]></text>
+	<text name="gameinfo_6_title" type="string">Wario Ware: Smooth Moves</text>	
+	<text name="gameinfo_6_link" type="string"><![CDATA[http://wii.nintendo.nl/1997.html]]></text>	
+	<text name="gameinfo_6_body" type="string"><![CDATA[Het WarioWare-team kreeg een idee dat zo maf was, dat het alleen met de meest recente technologie kon worden uitgevoerd ... de Wii-afstandsbediening. Met zo'n 200 razendsnelle microgames en besturingen die variëren van krabbelen tot armzwaaien tilt WarioWare: Smooth Moves gamen naar een heel nieuw niveau.]]></text>
+	<text name="gameinfo_7_title" type="string">Hotel Dusk: Room 215</text>
+	<text name="gameinfo_7_link" type="string"><![CDATA[http://www.nintendo-europe.com/NOE/nl/NL/games/gamepage.do?ElementId=xvsdfB8w8t7pLL8lEfAZGsCZv8L8kZ61]]></text>	
+	<text name="gameinfo_7_body" type="string"><![CDATA[Los Angeles, 1979. Spelers nemen de rol op zich van Kyle Hyde, een ex-politieman die verkoper is geworden en probeert een verdwenen vriend te vinden. De aanwijzingen leiden naar een eng, oud hotel waarvan men zegt dat er een hele vreemde kamer is... een kamer waar wensen worden vervuld. Spelers checken in het hotel en proberen het mysterie van Hotel Dusk: Room 215 te ontrafelen, een duister nieuw grafisch avontuur voor de Nintendo DS.]]></text>
+	<text name="gameinfo_8_title" type="string">Wii Sports</text>
+	<text name="gameinfo_8_link" type="string"><![CDATA[http://wii.nintendo.nl/2013.html]]></text>	
+	<text name="gameinfo_8_body" type="string"><![CDATA[Wii Sports bevat maar liefst vijf verschillende sporten die dankzij de Wii-afstandsbediening op intuïtieve en realistische wijze gespeeld kunnen worden. Spelers kunnen hun eigen Mii-personages invoeren in het spel en ze opstellen tegen de Mii's van hun vrienden voor een persoonlijke wedstrijd. Worden spelers beter in het spel dan worden hun Mii's bekwamer, zodat ze precies kunnen zien hoeveel vooruitgang ze inmiddels geboekt hebben.]]></text>
+	<text name="gameinfo_9_title" type="string">Harvest Moon DS</text>
+	<text name="gameinfo_9_link" type="string"><![CDATA[http://www.nintendo-europe.com/NOE/nl/NL/games/gamepage.do?ElementId=xCijtxkR-mzQrkIv5JODae0tHQzJVZdW]]></text>	
+	<text name="gameinfo_9_body" type="string"><![CDATA[Ga terug naar het boerenland in de meest praktijkgerichte versie van Harvest Moon tot nog toe! Harvest Moon DS brengt al het plezier van het populaire boerderijrollenspel naar de Nintendo DS; met de stylus borstel je de paarden, scheer je de schapen en melk je de koeien! In je boerenleven zaai je gewassen, verzorg je de veestapel en trouw je zelfs, om je dromen van landelijk geluk met je geliefde te delen.]]></text>
+	<text name="gameinfo_10_title" type="string">Diddy Kong Racing DS</text>
+	<text name="gameinfo_10_link" type="string"><![CDATA[http://www.nintendo-europe.com/NOE/nl/NL/games/gamepage.do?ElementId=cDsi3A23urAr0ZjVSpNMTQ9i83eesEBG]]></text>	
+	<text name="gameinfo_10_body" type="string"><![CDATA[Diddy Kong Racing DS is deels een kartracinggame, deels een adventuregame, waarin je plaatsneemt in de bestuurdersstoel van karts, hovercrafts en vliegtuigen en je het uitgestrekte eiland van voor tot achter verkent om zo verborgen parkoersen vrij te spelen en het in razendsnelle competities op te nemen tegen allerlei kleurrijke personages.]]></text>	
+	
+	<text name="downloads_title" type="string">Vrijgespeelde downloads:</text>
+	<text name="downloads_bonus" type="string">Bonus Download</text>
+	<text name="downloads_bonusactivated" type="string">Bonus Download vrijgespeeld!</text>
+	<text name="downloads_note" type="string"><![CDATA[Problemen met downloaden? Zet je popup-blocker uit en probeer het nog eens.]]></text>	
+	
+	<text name="feedback_name" type="string">JE NAAM:</text>
+	<text name="feedback_email" type="string">JE EMAILADRES: (optioneel)</text>
+	<text name="feedback_message" type="string">Schrijf ons wat je leuk en/of minder leuk vindt aan CHICK CHICK BOOM. We zijn benieuwd naar je mening!</text>
+	<text name="feedback_danke" type="string">Bedankt! Je bericht is verstuurd.</text>
+	
+	<text name="help_title" type="string">Help</text>
+	<text name="help_body" type="string"><![CDATA[Beweeg je muis over de verschillende elementen voor extra info.]]></text>
+	<text name="help_chick_title" type="string">Je kuikens</text>
+	<text name="help_chick_body" type="string"><![CDATA[Je bezit vijf kuikens die je moet verdedigen tegen de aanvallen van Poster Bunny. Als je je laatste kuiken hebt verloren, is het spel afgelopen.]]></text>
+	<text name="help_egg_title" type="string">Het ei</text>
+	<text name="help_egg_body" type="string"><![CDATA[Teken het actieve symbool na op het ei om aan te vallen of te verdedigen. Naarmate je nauwkeuriger tekent, zal je actie meer effect hebben.]]></text>
+	<text name="help_enemychicks_title" type="string">Kuikens van de tegenstander</text>
+	<text name="help_enemychicks_body" type="string"><![CDATA[Val de kuikens van je tegenstander aan om ze te verslaan.]]></text>
+	<text name="help_defense_title" type="string">Je verdediging</text>
+	<text name="help_defense_body" type="string"><![CDATA[Aan de linkerkant vind je de symbolen waarmee je je kuikens tegen aanvallen kunt verdedigen.]]></text>
+	<text name="help_offense_title" type="string">Je aanvallen</text>
+	<text name="help_offense_body" type="string"><![CDATA[Rechts van het ei vind je de symbolen waarmee je kunt aanvallen.]]></text>
+	<text name="help_bomb_title" type="string">De bom</text>
+	<text name="help_bomb_body" type="string"><![CDATA[Gooi een bom op je tegenstander. Met de explosie kun je meer dan één kuiken tegelijk raken.]]></text>
+	<text name="help_weight_title" type="string">Het gewicht</text>
+	<text name="help_weight_body" type="string"><![CDATA[Laat een groot gewicht op de kuikens vallen.]]></text>
+	<text name="help_attract_title" type="string">De richtingspijlen</text>
+	<text name="help_attract_body" type="string"><![CDATA[Stuur je kuikens naar links of rechts om aanvallen met gewichten en bommen te ontwijken.]]></text>
+	<text name="help_mushrooms_title" type="string">De paddestoelen</text>
+	<text name="help_mushrooms_body" type="string"><![CDATA[Laat giftige paddestoelen groeien bij je tegenstander. Als de kuikens ervan eten, worden ze langzamer en verliezen ze energie.]]></text>
+	<text name="help_mushroomkiller_title" type="string">Het medicijn</text>
+	<text name="help_mushroomkiller_body" type="string"><![CDATA[Genees de kuikens die van de giftige paddestoelen hebben gegeten.]]></text>
+	<text name="help_cloud_title" type="string">De wolk</text>
+	<text name="help_cloud_body" type="string"><![CDATA[Af en toe trekt een wolk voorbij. Als het regent komen wormen uit de grond, deze dienen als voedsel voor de kuikens. Hierdoor wordt ook de lont van de bom geblust.]]></text>
+	<text name="help_thunderbolt_title" type="string">De bliksem</text>
+	<text name="help_thunderbolt_body" type="string"><![CDATA[Bliksemaanvallen zijn alleen mogelijk als de wolk grijs van kleur is. Zorg dat je niet je eigen kuikens raakt.]]></text>
+	<text name="help_arrester_title" type="string">De bliksemafleider</text>
+	<text name="help_arrester_body" type="string"><![CDATA[De bliksemafleider beschermt je kuikens tegen bliksemaanvallen.]]></text>
+	<text name="help_balloon_title" type="string">De ballon</text>
+	<text name="help_balloon_body" type="string"><![CDATA[Laat een ballon naar de hemel stijgen. Je kuiken kan meeliften door in het mandje te springen. Als de ballon uit het speelveld verdwijnt, gaat je kuiken verloren.]]></text>
+	<text name="help_balloonkiller_title" type="string">De zandzak</text>
+	<text name="help_balloonkiller_body" type="string"><![CDATA[Hang zandzakken aan de ballon om deze weer te laten dalen, zodat je kuiken kan uitstappen.]]></text>
+	
+	<text name="game_level" type="string">Level</text>
+	<text name="game_start" type="string">Start</text>
+	<text name="game_restart" type="string">Play again</text>
+	<text name="game_gameover" type="string">GAME OVER</text>
+	<text name="game_backtomenu" type="string">Naar het menu</text>
+	<text name="game_next" type="string">Verder</text>
+	<text name="game_finished_hl" type="string"><![CDATA[Gelukt!]]></text>
+	<text name="game_finished_body" type="string"><![CDATA[Je beloning kun je straks in het downloadcenter ophalen.]]></text>
+	<text name="game_progress" type="string">Vorderingen</text>
+	<text name="game_reset" type="string">Vorderingen in het spel wissen</text>
+	<text name="game_resetnote" type="string"><![CDATA[Weet je zeker? Je begint dan weer vanaf het eerste level.]]></text>
+	
+	<text name="game_intro_start" type="string"><![CDATA[Versla de kuikens van Poster Bunny!]]></text>
+	<text name="game_intro_prize" type="string"><![CDATA[Beloning: een schermachtergrond van]]></text>
+
+	<text name="game_body_profi" type="string"><![CDATA[Je doel: Probeer het zo lang mogelijk vol te houden und je eigen records te breken! Elke keer dat je tegenstander een kuiken verliest, krijgt hij weer een nieuwe.]]></text>	
+	<text name="game_body_profinote" type="string"><![CDATA[Je hebt alle 10 levels gehaald! Het spel gaat verder met de pro-stand.]]></text>
+	
+	<text name="game_new_record" type="string">Nieuw record!</text>
+	<text name="game_bonus_sprinkler" type="string">Tuinsproeier geactiveerd!</text>
+	<text name="game_bonus_defusekit" type="string">Bomuitschakelaar geactiveerd!</text>
+	<text name="game_bonus_multismash" type="string">Double-Smash geactiveerd!</text>
+	<text name="game_bonus_helm" type="string">Helm geactiveerd!</text>
+	<text name="game_bonus_energy" type="string">Extra energie geactiveerd!</text>	
+
+	<text name="game_help_baddraw" type="string"><![CDATA[Je tekening was helaas te onnauwkeurig, probeer het nog eens.]]></text>
+	<text name="game_help_ready" type="string">Genoeg uitgelegd – doe je best!</text>
+	
+	<text name="game_l1_subtitle" type="string">Een stevige basis</text>
+	<text name="game_l1_name" type="string">Mario Slam Basketball</text>
+	<text name="game_l1_help_1" type="string"><![CDATA[Klik op het gewichtssymbooltje.]]></text>
+	<text name="game_l1_help_2" type="string"><![CDATA[Teken het voorbeeld zonder onderbrekingen na. Doe dit zo nauwkeurig mogelijk voor de beste aanval.]]></text>
+	<text name="game_l1_help_3" type="string"><![CDATA[Goed zo! Je aanval wordt uitgevoerd.]]></text>
+	<text name="game_l1_help_4" type="string"><![CDATA[Klik op het bomsymbool.]]></text>
+	<text name="game_l1_help_5" type="string"><![CDATA[Je moet minstens 70% halen, anders kun je niet aanvallen.]]></text>	
+	<text name="game_l1_help_6" type="string"><![CDATA[Goed zo! Je aanval wordt uitgevoerd.]]></text>
+	<text name="game_l1_help_7" type="string"><![CDATA[Klik op een richtingspijl.]]></text>	
+	<text name="game_l1_help_8" type="string"><![CDATA[Hiermee beweeg je je kuikens naar links of rechts.]]></text>	
+	<text name="game_l1_help_9" type="string"><![CDATA[Zo kun je de aanval van de vijand ontwijken.]]></text>	
+	<text name="game_l1_help_10" type="string"><![CDATA[Dat was het voorlopig weer even, geef Poster Bunny er nu van langs!]]></text>	
+		
+	<text name="game_l2_subtitle" type="string">Het regent!</text>
+	<text name="game_l2_name" type="string">Kororinpa</text>
+	<text name="game_l2_help_1" type="string"><![CDATA[Af en toe trekt een wolk voorbij. Als het regent, komen regenwormen uit de grond die dienen als voer voor de kuikens.]]></text>
+	<text name="game_l2_help_2" type="string"><![CDATA[Hierdoor wordt ook de lont van de bom geblust.]]></text>
+	
+	<text name="game_l3_subtitle" type="string">1.000.000 Volt</text>
+	<text name="game_l3_name" type="string">Pokémon Ranger</text>
+	<text name="game_l3_help_1" type="string"><![CDATA[Als een wolk grijs is, kun je erop klikken om de bliksem te activeren.]]></text>
+	<text name="game_l3_help_2" type="string"><![CDATA[Natuurlijk moet je dit pas doen als de wolk boven je tegenstander hangt.]]></text>
+	<text name="game_l3_help_3" type="string"><![CDATA[Goed zo! Je aanval wordt uitgevoerd.]]></text>
+	<text name="game_l3_help_4" type="string"><![CDATA[Je kunt de bliksemafleider gebruiken om bliksemaanvallen af te weren.]]></text>
+	
+	<text name="game_l4_subtitle" type="string">Een hele verbetering!</text>
+	<text name="game_l4_name" type="string">Wii Channels</text>
+	<text name="game_l4_help_1" type="string"><![CDATA[Laat giftige paddestoelen groeien in het gras.]]></text>
+	<text name="game_l4_help_2" type="string"><![CDATA[Kuikens die ervan eten worden langzamer en verliezen energie.]]></text>	
+	<text name="game_l4_help_3" type="string"><![CDATA[Goed zo! Je aanval wordt uitgevoerd.]]></text>
+	<text name="game_l4_help_4" type="string"><![CDATA[Gebruik het medicijn om je kuikens te genezen.]]></text>
+	
+	<text name="game_l5_subtitle" type="string">Hoog aan de hemel</text>
+	<text name="game_l5_name" type="string">Phoenix Wright 2</text>
+	<text name="game_l5_help_1" type="string"><![CDATA[Laat een kuiken met een ballon naar de hemel stijgen.]]></text>
+	<text name="game_l5_help_2" type="string"><![CDATA[Als je kuiken uit beeld verdwijnt, ben je hem kwijt.]]></text>	
+	<text name="game_l5_help_3" type="string"><![CDATA[Goed zo! Je aanval wordt uitgevoerd.]]></text>
+	<text name="game_l5_help_4" type="string"><![CDATA[Hang zandzakken aan de ballon om dit te voorkomen.]]></text>
+	
+	<text name="game_l6_subtitle" type="string">Zet een helm op</text>
+	<text name="game_l6_name" type="string">Wario Ware: Smooth Moves</text>
+	<text name="game_l6_help_1" type="string"><![CDATA[TIP: Als je meer dan één kuiken tegelijk uitschakelt, ontvangt één van je eigen kuikens een helm, waardoor hij een tijdje beter beschermd is.]]></text>
+	
+	<text name="game_l7_subtitle" type="string">Multi-Smash</text>	
+	<text name="game_l7_name" type="string">Hotel Dusk: Room 215</text>
+	<text name="game_l7_help_1" type="string"><![CDATA[TIP: Raak meer dan één kuiken tegelijk met een gewicht om voor je volgende aanval over twee gewichten te beschikken.]]></text>
+	
+	<text name="game_l8_subtitle" type="string">Extra energie</text>
+	<text name="game_l8_name" type="string">Wii Sports</text>
+	<text name="game_l8_help_1" type="string"><![CDATA[TIP: Als de zon schijnt moet je snel het symbool voor het medicijn tekenen. Hierdoor wordt je kuiken meteen beloond met een energiebonus.]]></text>
+	
+	<text name="game_l9_subtitle" type="string">Tuinsproeier</text>
+	<text name="game_l9_name" type="string">Harvest Moon DS</text>
+	<text name="game_l9_help_1" type="string"><![CDATA[TIP: Klik op de tuinsproeier zodra deze verschijnt. Hierdoor zullen meer aardwormen verschijnen, zodat je kuiken meer energie krijgt.]]></text>
+	
+	<text name="game_l10_subtitle" type="string">"Weg met die bommen"</text>			
+	<text name="game_l10_name" type="string">Diddy Kong RacingDS</text>
+	<text name="game_l10_help_1" type="string"><![CDATA[TIP: Als je alle vijf kuikens van de tegenstander uitschakelt met één bom, kan één van je kuikens een tijdje lang bommen onschadelijk maken.]]></text>
+	
+	<text name="game_l11_subtitle" type="string">Pro-stand</text>	
+	<text name="game_l11_name" type="string"></text>	
+		
+	<text name="impressum">
+	<![CDATA[
+PUBLISHER:
+
+extra toxic GmbH & Co. KG
+Hanauer Landstraße 196a
+60314 Frankfurt
+phone: +49 (0)69 / 48 44 00 - 40
+fax: +49 (0)69 / 48 44 00 - 39
+email: <a href="mailto:info@extratoxic.com"><u>info@extratoxic.com</u></a>
+web: <a href="http://www.extratoxic.com" target="_blank"><u>www.extratoxic.com</u></a>
+
+CEOs: Christiane Fritsch, Bogac Sariaydin, Steve Welz
+registration office: Amtsgericht Frankfurt am Main
+registration #: HRA 42957
+
+liable associate: extra toxic Verwaltungsgesellschaft mbH
+partners: Christiane Fritsch, Bogac Sariaydin, Steve Welz
+registration office: Amtsgericht Frankfurt am Main
+registration #: HRB 76625
+
+VAT #: DE 814546108
+
+DISCLAIMER:
+
+We of course are keen to provide you only with complete, true and up-to-date information on our web sites. We are not liable for any mistakes though, should they unintentionally occur.
+
+We are not responsible for the content of off-site web sites or any other web sites linked or linking to our web sites. The copyrights for and the responsibility concerning the content of those off-site web sites belong to their owner exclusively.
+
+To use our web site you need the Flash Player 8 Plugin or higher.
+
+PRIVACY:
+
+extra toxic GmbH & Co. KG and Nintendo recognise the importance of your privacy. All information and data that you may provide - subject to your instructions to the contrary - will be retained and disclosed only in accordance with applicable national data protection laws and regulations and in any event only to the degree necessary to efficiently process your specific request. extra toxic GmbH & Co. KG and Nintendo will not collect your personal data without your consent. It is entirely your decision as to whether you would like to disclose your individually identifiable information. Your personal data will be stored securely and will not be passed to any third party or company.
+
+COPYRIGHT:
+
+All content on this web site, including articles, artwork, screen shots, graphics, logos, digital downloads and other files, is the property of <a href="http://www.nintendo-europe.com/NOE/en/GB/copyright/index.jsp" target="_blank"><u>Nintendo</u></a> and extra toxic GmbH & Co. KG, unless owned by a third party, and is protected by German and international copyright, trademark and other intellectual property laws. Trademarks and copyrights for third-party content are owned by the companies that market or license those products.
+
+Complete or partial reproduction, publishing, transfer (electronically or in other ways), modification, and using of our web sites and content for public or commercial purposes is prohibited withour prior written approval. Of course we are happy about references to our web site and insofar ask for notification.
+
+CREDITS:
+
+Original Music & SFX by:
+Fabian Del Priore
+<a href="http://www.sonicminds.de" target="_blank"><u>www.sonicminds.de</u></a>
+A division of Dynamedion
+
+Servers and Loadbalancing powered by:
+<a href="http://www.ping247.de" target="_blank"><u>Ping247</u></a>
+Carsten Urbanski
+	]]>
+	</text>	
+</texte>
+

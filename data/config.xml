@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<path name="path" type="string">data/</path>
+	<movie name="loader" type="string">loader.swf</movie>	
+	<movie name="stage" type="string">stage.swf</movie>		
+	<movie name="menu" type="string">menu.swf</movie>		
+</config>
+
