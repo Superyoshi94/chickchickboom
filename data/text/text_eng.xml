@@ -31,7 +31,7 @@
 	<text name="gameinfo_1_body" type="string">Mario and friends decide that its a good idea to play sports meant for niggas, when he is quite obviously a white male.</text>
 	<text name="gameinfo_2_title" type="string">Kororinpa</text>
 	<text name="gameinfo_2_link" type="string"><![CDATA[http://wii.nintendo.co.uk/7439.html]]></text>	
-	<text name="gameinfo_2_body" type="string"><![CDATA[Simply by tilting the motion-sensitive Wii Remote you have complete control over the angle of the playing surface; tilting and turning it to roll the ball around obstacles, along perilous ledges, through tunnels and across bridges towards the goal.]]></text>
+	<text name="gameinfo_2_body" type="string">Let's be honest here, NOBODY knows what this game is, but it might be good.</text>
 	<text name="gameinfo_3_title" type="string">Pokémon Ranger</text>
 	<text name="gameinfo_3_link" type="string"><![CDATA[http://ms.nintendo-europe.com/pokemonranger/enGB/index.html]]></text>	
 	<text name="gameinfo_3_body" type="string"><![CDATA[Pokémon Ranger is a new type of Pokémon game made especially for Nintendo DS. Instead of playing a Pokémon Trainer you play a Ranger, responsible for protecting Pokémon in the wild. Capturing Pokémon is also handled in a whole new way; using a Capture Styler you must catch Pokémon by quickly drawing circles around them with your stylus.]]></text>
@@ -53,9 +53,9 @@
 	<text name="gameinfo_9_title" type="string">Harvest Moon DS</text>
 	<text name="gameinfo_9_link" type="string"><![CDATA[http://www.nintendo-europe.com/NOE/en/GB/games/gamepage.do?ElementId=Wva3b-vPr4ljPoa2cDIXhlsB0tjP__lb]]></text>	
 	<text name="gameinfo_9_body" type="string"><![CDATA[Go back to the farm in the most hands-on Harvest Moon yet! Harvest Moon DS brings all the fun of the much-loved farming RPG to the dual-screened system; with touch control that lets you brush horses, shear sheep and milk cows! Living the life of a farmer you'll sow crops, tend to your livestock and even take a wife to share your dreams of rural happiness.]]></text>
-	<text name="gameinfo_10_title" type="string">Diddy Kong Racing DS</text>
+	<text name="gameinfo_10_title" type="string">P Diddy Racing DS</text>
 	<text name="gameinfo_10_link" type="string"><![CDATA[http://www.nintendo-europe.com/NOE/en/GB/games/gamepage.do?ElementId=9_YK-SP9sKnowUJqp795LWtYbZu6VDEo]]></text>	
-	<text name="gameinfo_10_body" type="string"><![CDATA[Part kart racer, part adventure game, Diddy Kong Racing DS puts you in the driving seat of karts, hovercraft and airplanes as you explore the sprawling island to unlock hidden tracks and face off against colourful characters in high-octane competitions.]]></text>		
+	<text name="gameinfo_10_body" type="string">P Diddy Racing DS is a return to the P Diddy Racing games. Get new power ups, like baby oil traps, and a glock 18!</text>		
 	
 	<text name="downloads_title" type="string">Downloads achieved:</text>
 	<text name="downloads_bonus" type="string">Secret download</text>
@@ -64,8 +64,8 @@
 	
 	<text name="feedback_name" type="string">YOUR NAME:</text>
 	<text name="feedback_email" type="string">YOUR EMAIL ADDRESS: (optional)</text>
-	<text name="feedback_message" type="string">Let us know what you liked and didn’t like about CHICK CHICK BOOM. We’re looking forward to your feedback!</text>
-	<text name="feedback_danke" type="string">Thank you! Your message has been sent successfully.</text>
+	<text name="feedback_message" type="string">Let us know what you liked and didn’t like about CHICK CHICK BOOM. We won't actually look at the shit you send us, because this email is long dead!</text>
+	<text name="feedback_danke" type="string">Uh oh, the email fucked up. that's what happens when you try to use features in an 18 year old flash game.</text>
 	
 	<text name="help_title" type="string">Help</text>
 	<text name="help_body" type="string"><![CDATA[Move the mouse over the sensitive areas to get more information.]]></text>
@@ -110,7 +110,7 @@
 	<text name="game_finished_body" type="string"><![CDATA[You can pick up your reward later at the download center.]]></text>
 	<text name="game_progress" type="string">Game progress</text>
 	<text name="game_reset" type="string">Erase game progress</text>
-	<text name="game_resetnote" type="string"><![CDATA[Really erase game progress? You’ll have to start all over again.]]></text>
+	<text name="game_resetnote" type="string">nigga do you REALLY want to do that?</text>
 	
 	<text name="game_intro_start" type="string"><![CDATA[Knock Poster Bunny’s chicks out!]]></text>
 	<text name="game_intro_prize" type="string"><![CDATA[Reward: A wallpaper of]]></text>
